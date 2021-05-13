@@ -17,6 +17,7 @@
 *.cb
 *.cb2
 .*.lb
+.dccache
 
 ## Intermediate documents:
 *.dvi

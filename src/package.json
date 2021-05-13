@@ -1,0 +1,22 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "The src directory is home to the actual codebase of the application and the target of our build tools. In this directory you should leave all the source code you have developed for your assignment.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "clean": "rm -rf node_modules && rm -rf package-lock.json",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-config-google": "^0.14.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
