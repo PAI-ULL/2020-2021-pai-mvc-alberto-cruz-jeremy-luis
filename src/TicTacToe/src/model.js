@@ -21,7 +21,7 @@ import {Event} from './event.js';
 
 /**
  * @class
- * @description
+ * @description Model Class
  */
 export class TicTacToeModel {
   /** @private */
