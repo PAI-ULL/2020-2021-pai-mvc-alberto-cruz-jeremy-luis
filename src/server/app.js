@@ -29,7 +29,7 @@ const PORT = 3000;
 // const IP_ADRESS = '';
 
 const app = express();
-app.use(express.static(path.join(__dirname, '../prueba')));
+app.use(express.static(path.join(__dirname, '../TicTacToe')));
 app.use(express.static(path.join(__dirname, '../formas')));
 app.use(express.static(path.join(__dirname, '../src')));
 app.listen(PORT, HOST);

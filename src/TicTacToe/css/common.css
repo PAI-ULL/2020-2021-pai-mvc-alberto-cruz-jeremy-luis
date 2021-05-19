@@ -1,0 +1,29 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #a59ff0;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+  background-color: #2F004F;
+  color: white;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+  background-color: #2F004F;
+  color: white;
+}
