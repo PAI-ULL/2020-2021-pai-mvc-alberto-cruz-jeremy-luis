@@ -9,9 +9,11 @@
  * @author Jeremy Manuel Luis Leon
  * @email alu0101244587@ull.edu.es
  *
- * @since
+ * @since 17.May.2021
  * @link
- * @description
+ * @description skeleton of each one MVC classes. Each class could be name as
+ * programmer want, but the principle of how they work has to be in order to
+ * the Model Controller View architecture style
  */
 
 'use strict';

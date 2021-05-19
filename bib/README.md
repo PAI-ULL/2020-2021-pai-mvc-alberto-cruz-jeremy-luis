@@ -17,3 +17,7 @@ https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns
 https://www.tutorialspoint.com/design_pattern/mvc_pattern.htm
 
 https://www.geeksforgeeks.org/mvc-design-pattern/#:~:text=The%20Model%20View%20Controller%20(MVC,but%20not%20for%20complete%20application.
+
+# Diapositiva what is model view controller
+https://www.tomdalling.com/blog/software-design/model-view-controller-explained/
+
